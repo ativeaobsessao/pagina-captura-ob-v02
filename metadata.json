@@ -1,0 +1,6 @@
+{
+  "name": "Operax | Destravar I.A.",
+  "description": "Página oficial OperaX para ativação da Inteligência Artificial de alavancagem e acesso direto ao suporte e grupo exclusivo no Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
